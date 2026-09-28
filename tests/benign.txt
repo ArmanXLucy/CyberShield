@@ -1,0 +1,2 @@
+CyberShield benign static analysis test.
+Nothing executes here.
